@@ -4,7 +4,6 @@ import (
 	mcontext "googleauth/middleware"
 	"googleauth/router"
 	"googleauth/service/db"
-	"googleauth/service/jwt"
 	"log"
 	"os"
 
